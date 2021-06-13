@@ -2,10 +2,10 @@ GPT2 Text Generation
 ====================
 Text can be generated in one category. The pipeline should be run for each category. 
 
-###Environment
+### Environment
 The project is developed in Google Colab. Make sure the GPU is active.
 
-###Steps to run
+### Steps to run
 1. Preprocessing is needed for the language model. Follow the instructions in **preprocessing_GPT2_txtfiles.ipynb**. The output txt file will be used while fine-tuning the pre-trained model. 
 2. Install transformers
 ```bash
