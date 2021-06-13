@@ -7,7 +7,7 @@ Honeypot Generation Tool
 
 -Health and sports categories are not available for GPT2 model because of insufficient training data.
 
-###Steps to deploy in server
+### Steps to deploy in server
 1. After setting up the docker on server run
 ```bash
 sudo docker-compose build
